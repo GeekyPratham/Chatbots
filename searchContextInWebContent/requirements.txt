@@ -1,0 +1,15 @@
+ipykernel
+langchain
+python-dotenv
+
+langchain_community
+langchain-ollama
+langchain-classic
+langchain-core
+
+
+## for web scaping 
+beautifulsoup4
+
+## vector db
+faiss-cpu
