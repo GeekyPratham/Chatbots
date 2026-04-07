@@ -1,0 +1,17 @@
+python-dotenv
+langchain
+langchain_community
+langchain_core
+streamlit
+openai
+langchain_openai
+huggingface_hub
+langchain_groq
+langchain_ollama
+pypdf
+langchain_huggingface
+sentence-transformers
+faiss-cpu
+python-dotenv
+
+
